@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T14:34:41.136Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="pInKIR1uu5FPMlT4QLu8" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T14:41:56.867Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nwte1RylgqWbm32fPrWA" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Kj3c9yN96UB_w5Sm31qa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-0" target="Kj3c9yN96UB_w5Sm31qa-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-0" value="多无人机协同的草原修复面积最大化问题" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="30" width="120" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-0" value="多无人机协同的草原修复问题" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="30" width="170" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Kj3c9yN96UB_w5Sm31qa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-3" target="Kj3c9yN96UB_w5Sm31qa-4">
           <mxGeometry relative="1" as="geometry" />
@@ -52,8 +52,8 @@
         <mxCell id="Kj3c9yN96UB_w5Sm31qa-20" value="提出多无人机协同修复算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="333" width="150" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-25" value="进行模拟实验来证实&lt;br&gt;模型和算法的有效性" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="400" width="120" height="30" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-25" value="仿真证实模型和算法的有效性" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="400" width="170" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
