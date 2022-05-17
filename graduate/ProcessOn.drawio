@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T14:41:56.867Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nwte1RylgqWbm32fPrWA" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T02:52:00.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="vQhHCzzlCs_QgUddWEjB" version="18.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1209" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-0" target="Kj3c9yN96UB_w5Sm31qa-3">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-0" target="Kj3c9yN96UB_w5Sm31qa-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-0" value="多无人机协同的草原修复问题" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="30" width="170" height="44" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-0" value="&lt;font face=&quot;宋体&quot;&gt;多无人机协同的草原修复问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="295" y="25" width="175" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-3" target="Kj3c9yN96UB_w5Sm31qa-4">
+        <mxCell id="fFSGDh22msuwKQuR6GsG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-3" target="Kj3c9yN96UB_w5Sm31qa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-3" value="建立多机协同草原修复模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="102" width="150" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-3" value="&lt;font face=&quot;宋体&quot;&gt;建立多机协同草原修复模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="305" y="72" width="154" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-10">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-8">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-12">
+        <mxCell id="fFSGDh22msuwKQuR6GsG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-4" target="Kj3c9yN96UB_w5Sm31qa-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-4" value="考虑无人机能量受限&lt;br&gt;和无人机任务约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="173" width="150" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-4" value="&lt;font face=&quot;宋体&quot;&gt;考虑无人机能量受限和任务约束&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="295" y="125" width="176" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-8" target="Kj3c9yN96UB_w5Sm31qa-20">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-8" target="Kj3c9yN96UB_w5Sm31qa-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-8" value="基于强化学习&lt;br&gt;实现路径规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="253" width="80" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-8" value="&lt;font face=&quot;宋体&quot;&gt;基于强化学习&lt;br&gt;实现路径规划&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="342" y="201" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-10" target="Kj3c9yN96UB_w5Sm31qa-20">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-10" target="Kj3c9yN96UB_w5Sm31qa-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-10" value="基于动态任务&lt;br&gt;实现负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="253" width="80" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-10" value="&lt;font face=&quot;宋体&quot;&gt;基于动态任务&lt;br&gt;实现负载均衡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="222" y="202" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-12" target="Kj3c9yN96UB_w5Sm31qa-20">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-12" target="Kj3c9yN96UB_w5Sm31qa-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-12" value="基于层次递减&lt;br&gt;实现面积决策" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="253" width="80" height="40" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-12" value="&lt;font face=&quot;宋体&quot;&gt;基于层次递减&lt;br&gt;实现面积决策&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="462" y="202" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-20" target="Kj3c9yN96UB_w5Sm31qa-25">
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kj3c9yN96UB_w5Sm31qa-20" target="Kj3c9yN96UB_w5Sm31qa-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-20" value="提出多无人机协同修复算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="333" width="150" height="38" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-20" value="&lt;font face=&quot;宋体&quot;&gt;提出多无人机协同修复算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="307" y="282" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kj3c9yN96UB_w5Sm31qa-25" value="仿真证实模型和算法的有效性" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="295" y="400" width="170" height="44" as="geometry" />
+        <mxCell id="Kj3c9yN96UB_w5Sm31qa-25" value="&lt;font face=&quot;宋体&quot;&gt;仿真证实模型和算法的有效性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;sketch=0;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="297" y="331" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
