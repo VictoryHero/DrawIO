@@ -15,7 +15,7 @@ line = len(exampleData)  # 得到数据行数
 step = list()
 act_loss = list()
 crt_loss = list()
-plt.figure(figsize=(16, 4))
+plt.figure(figsize=(8, 8))
 # ,figsize=(8, 8)
 # plt.rcParams['font.sans-serif'] = ['Droid Sans Fallback']
 # plt.rcParams['axes.unicode_minus']=False
@@ -27,10 +27,10 @@ for i in range(1, line):  # 从第二行开始读取
 plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
 plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
 
-plt.subplot(121)
+plt.subplot(211)
 l1=plt.plot(step, act_loss,color="r",label=u"行动者网络损失")  # 绘制x,y的折线图
 plt.legend()
-plt.subplot(122)
+plt.subplot(212)
 l2=plt.plot(step, crt_loss,color="b",label=u"评论家网络损失")  # 绘制x,y的折线图
 plt.legend()
 
