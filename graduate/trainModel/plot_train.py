@@ -1,3 +1,4 @@
+#coding:utf-8
 import csv
 import matplotlib
 import matplotlib.pyplot as plt
@@ -23,6 +24,9 @@ for i in range(1, line):  # 从第二行开始读取
     act_loss.append(-float(exampleData[i][1]))
     crt_loss.append(float(exampleData[i][2]))
 
+plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
 plt.subplot(121)
 l1=plt.plot(step, act_loss,color="r",label=u"行动者网络损失")  # 绘制x,y的折线图
 plt.legend()
@@ -31,7 +35,7 @@ l2=plt.plot(step, crt_loss,color="b",label=u"评论家网络损失")  # 绘制x,
 plt.legend()
 
 
-plt.savefig("./flight_path.pdf", 
+plt.savefig("./modelTrain.pdf", 
         dpi=None, 
         facecolor='w', 
         edgecolor='b',
