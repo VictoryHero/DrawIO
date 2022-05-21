@@ -28,9 +28,13 @@ plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
 plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
 
 plt.subplot(211)
+plt.xlim( 0,5000)
+plt.ylim(0,445)
 l1=plt.plot(step, act_loss,color="r",label=u"行动者网络损失")  # 绘制x,y的折线图
 plt.legend()
 plt.subplot(212)
+plt.xlim(0,5000) 
+plt.ylim( 0,110) #抹掉0
 l2=plt.plot(step, crt_loss,color="b",label=u"评论家网络损失")  # 绘制x,y的折线图
 plt.legend()
 
